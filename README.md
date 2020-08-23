@@ -56,5 +56,5 @@ While the chances of an error are extremely small, given URL validation happens 
   "error" : "Specified URL was not found."
 }
 ```
--`statusCode`: `Int`, Status code of resulting error.
--`error`: `String`, Error message.
+- `statusCode`: `Int`, Status code of resulting error.
+- `error`: `String`, Error message.
