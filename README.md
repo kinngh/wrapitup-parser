@@ -12,11 +12,9 @@ If you feel you have a requirement to use a parser, please get in touch with me 
 
 ## Tech Stack
 - Node.js
-  - Express
-  - Joi
-  - JSHint [Dev]
-- Logflare
+- Logflare (Log drain)
 - Vercel / Netlify / AWS (Serverless functions)
+- MongoDB (Caching requests)
 
 ## API Documentation
 
